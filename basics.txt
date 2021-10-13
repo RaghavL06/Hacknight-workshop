@@ -1,0 +1,12 @@
+look at the rough paper to see the changes : git status
+write down all these changes in the logbook : git add -add
+give this change new name and desc : git commit -m "<message>"
+
+make a xerox copy of the logbook : git checkout -b <branch-name>
+make cahnges simult git add, git commit 
+ultimately combine : git merge <copy> <source>
+
+first create a repository : logbook
+git init to start a repositr in a new folder
+
+git revert <commit hash> : to revert respository
